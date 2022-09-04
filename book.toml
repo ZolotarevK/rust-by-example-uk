@@ -1,0 +1,6 @@
+[book]
+authors = ["Zolotarev Kirill <kirillzolotarev15062006@gmail.com>"]
+language = "uk"
+multilingual = false
+src = "src"
+title = "Rust на прикладах"
